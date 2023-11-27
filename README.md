@@ -1,5 +1,5 @@
 # ✌️ About Me:
-🔭 I’m currently working on Mobile application development<br>🌱 I’m currently learning frontend development with Flutter<br>⚡ As an extra I am a copywriter and I work in the social media propaganda team in the Workers Party of Turkey<br>📨 Contact me: mertmeral.55@gmail.com<br> ![BehzatçGIF](https://user-images.githubusercontent.com/98618217/228917350-d1feaeec-faee-4fd7-98ce-088184e3c8dd.gif)
+🔭 I’m currently working on Mobile application development<br>🌱 I’m currently learning frontend development with Flutter<br>📨 Contact me: mertmeral.55@gmail.com<br> ![BehzatçGIF](https://user-
 
 
 
