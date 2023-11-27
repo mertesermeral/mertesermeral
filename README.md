@@ -1,6 +1,5 @@
 # ✌️ About Me:
-🔭 I’m currently working on Mobile application development<br>🌱 I’m currently learning frontend development with Flutter<br>📨 Contact me: mertmeral.55@gmail.com<br> ![BehzatçGIF](https://user-
-
+🔭 I’m currently working on Mobile application development<br>🌱 I’m currently learning frontend development with Flutter<br>📨 Contact me: mertmeral.55@gmail.com<br>
 
 
 ## 🌐 Socials:
