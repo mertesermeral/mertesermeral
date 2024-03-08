@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on Mobile application development<br>🌱 I’m currently learning frontend development with Flutter<br>📨 Contact me: mertmeral.55@gmail.com<br>
+🔭 I’m currently working on Full Stack development<br>🌱 I’m currently learning Java <br>📨 Contact me: mertesermeral@gmail.com<br>
 
 
 ## 🌐 Socials:
