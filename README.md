@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Full Stack development<br>🌱 I’m currently learning React Native<br>📨 Contact me: mertesermeral@gmail.com</p>
+<p align="left">🔭 I’m currently working on Full Stack development<br>🌱 I’m currently learning React Native<br>📨 Contact me: mertesermeral@gmail.com <br></p>
 
 ###
 
